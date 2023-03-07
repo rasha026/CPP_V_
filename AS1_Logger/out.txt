@@ -1,0 +1,4 @@
+| 0:30:56 | Task2 | 1 | lError | APP2 |
+| 0:30:56 | Task2 | 2 | lInfo | Hello from app2 |
+| 0:30:56 | Task1 | 1 | lWarn | APP1 |
+| 0:30:56 | Task1 | 2 | lError | Hello from app1 |
